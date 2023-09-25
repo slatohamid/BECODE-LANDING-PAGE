@@ -1,6 +1,6 @@
-#LANDING-PAGE
+# LANDING PAGE
 
-##https://slatohamid.github.io/BECODE-LANDING-PAGE/##
+**https://slatohamid.github.io/BECODE-LANDING-PAGE/**
 
 # Hello, I'm Hamid Slato
 
